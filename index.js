@@ -427,7 +427,7 @@ function chamadaComThenCatch(){
     .then((res) => console.log(res))
     .catch((res) => console.log(res));
 }
-//chamadaComThenCatch();
+chamadaComThenCatch();
 
 async function chamadaComAwait(){
    try{
